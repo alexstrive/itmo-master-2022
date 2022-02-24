@@ -9,6 +9,7 @@
         <script id="MathJax-script" async="true" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
       </head>
       <body>
+        <h4 id="author" title="GossJS">Алексей Новопашин</h4>
 
         <math xmlns="http://www.w3.org/1998/Math/MathML">
           <mi>

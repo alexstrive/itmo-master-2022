@@ -7,6 +7,7 @@
         <title></title>
       </head>
       <body>
+        <h4 id="author" title="GossJS">Алексей Новопашин</h4>
 
         <svg>
           <xsl:attribute name="width">
